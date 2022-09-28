@@ -20,7 +20,7 @@ Inicio
     
     idadeMedia <- (idade + idade2) / 2
     
-    escreval("A idade media de ", nome, " e ", nome2, " é de", idadeMedia, " Anos.")
+    escreval("A idade media de ", nome, " e ", nome2, " Ã© de", idadeMedia, " Anos.")
 
 
     
