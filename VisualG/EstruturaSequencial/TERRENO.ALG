@@ -23,7 +23,7 @@ Inicio
       escreval("Area do terreno = ", area:8:2)
       
       preco <- area * metroQuadrado
-      escreval ("Preço do terreno = ", preco:8:2)
+      escreval ("PreÃ§o do terreno = ", preco:8:2)
 
        
 
