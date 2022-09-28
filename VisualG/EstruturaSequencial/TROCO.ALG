@@ -6,7 +6,7 @@ Var
 
 
 Inicio
-      escreva("Preço unitario do produto:  ")
+      escreva("PreÃ§o unitario do produto:  ")
       leia(preco)
       escreva("Quantidade comprada: ")
       leia(quantidade)
