@@ -12,9 +12,9 @@ Inicio
     area <- base * altura
     perimetro <- 2 * base + 2 * altura
     diagonal <- RaizQ(Exp(base, 2) + Exp(altura, 2))
-    escreval("A area é ", area:8:4)
-    escreval("O perimetro é ", perimetro:8:4)
-    escreval("A diagonal é ", diagonal:8:4)
+    escreval("A area Ã© ", area:8:4)
+    escreval("O perimetro Ã© ", perimetro:8:4)
+    escreval("A diagonal Ã© ", diagonal:8:4)
     
 
 
