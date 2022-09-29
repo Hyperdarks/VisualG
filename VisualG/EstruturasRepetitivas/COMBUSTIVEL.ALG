@@ -10,8 +10,6 @@ Inicio
    escreva("Informe um codigo(1-Álcool,2-Gasolina,3-Diesel) ou 4 pra parar: ")
    leia(codigo)
    enquanto codigo <> 4 faca
-      escreva("Informe um codigo(1-Álcool,2-Gasolina,3-Diesel) ou 4 pra parar: ")
-      leia(codigo)
       escolha codigo
       caso 1
          alcool <- alcool + 1
@@ -20,6 +18,8 @@ Inicio
       caso 3
          diesel <- diesel + 1
       fimescolha
+      escreva("Informe um codigo(1-Álcool,2-Gasolina,3-Diesel) ou 4 pra parar: ")
+      leia(codigo)
 
    fimenquanto
 
