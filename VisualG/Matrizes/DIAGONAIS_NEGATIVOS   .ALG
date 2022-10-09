@@ -28,11 +28,8 @@ Inicio
    fimpara
    
    para i de 0 ate N-1 faca
-      para j de 0 ate N-1 faca
-         se i = j entao
-         escreva(mat[i,j])
-         fimse
-      fimpara
+      escreva(mat[i, i], " ")
+
    fimpara
    escreval
    escreval("QUANTIDADE DE NEGATIVOS =", count)
